@@ -15,3 +15,8 @@ for i in range(1,11):
 evenNumber = []
 evenNumber = [i + 2 for i in range(-2, 500,2)]
 print(evenNumber)
+
+evenNumber = []
+for i in range(0,500,2):
+    evenNumber.append(i)
+print(evenNumber)
