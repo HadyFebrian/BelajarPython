@@ -1,0 +1,7 @@
+print("Selamat Datang Di Belajar Python")
+print("Silahkan Masukkan Data Diri Anda")
+nama = input("Masukkan Nama Anda : ")
+tahun_lahir = input("Masukkan Tahun Lahir Anda : ")
+umur = 2024 - int(tahun_lahir)
+print(f"Selamat Datang {nama}Dalam Belajar Python, Usia Anda Per 2024 Adalah {umur} Tahun")
+print("Terima Kasih Telah Mengunjungi Belajar Python")
